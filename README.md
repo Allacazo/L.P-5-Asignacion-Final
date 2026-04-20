@@ -17,3 +17,31 @@ El Programa utiliza arreglos unidimensionales que guardan la informacion de cada
 Tambien como cada estudiantes tiene 4 notas, Se usa una formula para colocar cada calificacion en su posicion correcta del arreglo expecificamente.
 
 Ejemplos del programa en pleno funcionamiento y errores comunes.
+
+
+![image alt](https://github.com/Allacazo/L.P-5-Asignacion-Final/blob/e57b8572cd27e2ac3d155ccd74ef03284053a01e/%231.png)
+
+
+![image alt](https://github.com/Allacazo/L.P-5-Asignacion-Final/blob/e57b8572cd27e2ac3d155ccd74ef03284053a01e/%232.png)
+
+
+![image alt](https://github.com/Allacazo/L.P-5-Asignacion-Final/blob/e57b8572cd27e2ac3d155ccd74ef03284053a01e/%233.png)
+
+
+![image alt](https://github.com/Allacazo/L.P-5-Asignacion-Final/blob/e57b8572cd27e2ac3d155ccd74ef03284053a01e/%234.png)
+
+
+![image alt](https://github.com/Allacazo/L.P-5-Asignacion-Final/blob/e57b8572cd27e2ac3d155ccd74ef03284053a01e/%235.png)
+
+
+![image alt](https://github.com/Allacazo/L.P-5-Asignacion-Final/blob/e57b8572cd27e2ac3d155ccd74ef03284053a01e/%236.png)
+
+
+![image alt](https://github.com/Allacazo/L.P-5-Asignacion-Final/blob/e57b8572cd27e2ac3d155ccd74ef03284053a01e/%237.png)
+
+
+![image alt](https://github.com/Allacazo/L.P-5-Asignacion-Final/blob/e57b8572cd27e2ac3d155ccd74ef03284053a01e/%238.png)
+
+
+
+
