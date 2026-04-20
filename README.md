@@ -20,7 +20,7 @@ Ejemplos del programa en pleno funcionamiento y errores comunes.
 
 
 ![image alt](https://github.com/Allacazo/L.P-5-Asignacion-Final/blob/e57b8572cd27e2ac3d155ccd74ef03284053a01e/%231.png)
-
+a
 
 ![image alt](https://github.com/Allacazo/L.P-5-Asignacion-Final/blob/e57b8572cd27e2ac3d155ccd74ef03284053a01e/%232.png)
 
