@@ -43,6 +43,7 @@ Aca se aprecia el primer error comun que es cuando ingresas una cantidad mayor a
 ![image alt](https://github.com/Allacazo/L.P-5-Asignacion-Final/blob/e57b8572cd27e2ac3d155ccd74ef03284053a01e/%238.png)
 Y aqui podemos ver el mismo error pero aplicado a las notas (Aca no se aplica el error con el 0)
 
-
+Nombre: Matheus Jesus Jose
+Matricula: 2023-0918
 
 
