@@ -20,27 +20,28 @@ Ejemplos del programa en pleno funcionamiento y errores comunes.
 
 
 ![image alt](https://github.com/Allacazo/L.P-5-Asignacion-Final/blob/e57b8572cd27e2ac3d155ccd74ef03284053a01e/%231.png)
-a
+En esta primera imagen podemos ver el ingreso de la cantidad de estudiantes
 
 ![image alt](https://github.com/Allacazo/L.P-5-Asignacion-Final/blob/e57b8572cd27e2ac3d155ccd74ef03284053a01e/%232.png)
-
+En esta podemos ver el ejemplo del el nombre ya ingresado
 
 ![image alt](https://github.com/Allacazo/L.P-5-Asignacion-Final/blob/e57b8572cd27e2ac3d155ccd74ef03284053a01e/%233.png)
-
+En esta se puede ver el ejemplo de como se ve cuando se ingresa el nombre y las cuatro calificaciones
 
 ![image alt](https://github.com/Allacazo/L.P-5-Asignacion-Final/blob/e57b8572cd27e2ac3d155ccd74ef03284053a01e/%234.png)
-
+Aca se puede ver a 4 estudiantes de los 10 ingresado para el ejemplo
 
 ![image alt](https://github.com/Allacazo/L.P-5-Asignacion-Final/blob/e57b8572cd27e2ac3d155ccd74ef03284053a01e/%235.png)
-
+En esta imagen se aprecia los datos ya registrados en orden de ingreso y con cada uno con su promedio
 
 ![image alt](https://github.com/Allacazo/L.P-5-Asignacion-Final/blob/e57b8572cd27e2ac3d155ccd74ef03284053a01e/%236.png)
-
+En esta se aprecia el resumen donde esta promedio del grupo, Califiacion mas alta y mas baja y Por ultimo los estudiantes Aprovados y reprovados
 
 ![image alt](https://github.com/Allacazo/L.P-5-Asignacion-Final/blob/e57b8572cd27e2ac3d155ccd74ef03284053a01e/%237.png)
-
+Aca se aprecia el primer error comun que es cuando ingresas una cantidad mayor a la maxima sostenible por el programa (Tambien se aplica este error cuando ingresas 0)
 
 ![image alt](https://github.com/Allacazo/L.P-5-Asignacion-Final/blob/e57b8572cd27e2ac3d155ccd74ef03284053a01e/%238.png)
+Y aqui podemos ver el mismo error pero aplicado a las notas (Aca no se aplica el error con el 0)
 
 
 
